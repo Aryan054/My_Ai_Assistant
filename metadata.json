@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Virtual Assistant",
+  "description": "A voice-controlled virtual assistant powered by Gemini. Set reminders, get information, and control simulated smart devices with your voice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
